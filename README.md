@@ -34,5 +34,5 @@ TFT（Teamfight Tactics）のダメージ計算、ステータス計算、装備
 ---
 
 ## ⚠️ 免責事項
-
+* BuildTFT isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Riot Games properties. Riot Games, and all associated properties are trademarks or registered trademarks of Riot Games, Inc.
 * ダメージやステータスの計算結果は実際のゲーム内挙動と一致するよう最善を尽くしていますが、ゲームのアップデートや複雑なシナジーの状況により実際のゲーム内と若干の誤差が生じる場合があります。予めご了承ください。
